@@ -1,1 +1,1 @@
-# nlp1
+# tugas AI pertemuan 1
