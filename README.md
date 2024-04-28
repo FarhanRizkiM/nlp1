@@ -1,1 +1,1 @@
-# tugas AI pertemuan 1
+# Tugas AI Pertemuan 1
